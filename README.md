@@ -61,7 +61,7 @@ Our highest-performing model was a logistic regression model incorporating featu
 We strongly advise the Department of Health to utilize our top-performing model for predicting vaccine requirements in the upcoming flu season. While individual decisions regarding flu vaccination are nuanced, our model provides a valuable starting point for estimating vaccine supply needs. While it may not offer exact predictions, it serves as a valuable tool for initial planning.
 
 #### Next Steps
-During our Exploratory Data Analysis (EDA), we observed that factors like opinion and doctor recommendation exhibited stronger correlations with vaccine status. Further exploration of these factors could unveil potential barriers to vaccination among specific demographics, informing targeted public health interventions."
+During our Exploratory Data Analysis (EDA), we observed that factors like opinion and doctor recommendation exhibited stronger correlations with vaccine status. Further exploration of these factors could expose potential barriers to vaccination among specific demographics, informing targeted public health interventions.
 
 ## Repository Structure
 
@@ -69,7 +69,7 @@ During our Exploratory Data Analysis (EDA), we observed that factors like opinio
 ├── Data
 ├── Images
 ├── .gitignore
-├── powerpoint.pdf.pptx
+├── public_health_flu_vaccine_slides.pdf
 ├── public_health_fluvaccine_modeling.ipynb.ipynb
 └── README.md
 ```
